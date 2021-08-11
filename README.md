@@ -7,6 +7,7 @@ To create Interactive Dashboard of Churn prediction of customer's which helps to
 1. Use various graph such as, Bar-plot, Histogram, Pie-chart, donut chart, Scatter plot, cards, decomposition tree, gauge as per the features
 2. Using measures- dimensions, buttons, joins, format, fields, shapes, images, Q& A, key influencers for different type of analysis
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Files attached:**
 1. Dataset (.csv file)
 2. PowerBi File (.pbix file)
